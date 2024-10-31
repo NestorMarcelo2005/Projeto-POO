@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Play
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Opcoes\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=texto\ tamanhoFonte
+comment1.target=Play(java.lang.String,\ int)
+comment2.params=cor
+comment2.target=void\ atualizarImagem(greenfoot.Color)
+comment2.text=\r\n\ Fun\u00E7\u00E3o\ que\ muda\ a\ cor\ da\ palavra\ quando\ passar\ o\ rato\ por\ cima\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ rato()
+comment4.text=\r\n\ Fun\u00E7\u00E3o\ que\ verifica\ em\ qual\ dos\ textos\ o\ rato\ clicou\r\n
+numComments=5
