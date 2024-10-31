@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fumo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fumo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Fumo()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ imagens()
+comment3.text=\r\n\ Fun\u00E7\u00E3o\ que\ prepara\ as\ imagens\ de\ fumo\r\n
+comment4.params=
+comment4.target=void\ fumoanima()
+comment4.text=\r\n\ Fun\u00E7\u00E3o\ que\ percorre\ o\ array\ de\ imagens,\ em\ que\ anima\ o\ fundo\ e\ depois\ desaparece\r\n
+numComments=5

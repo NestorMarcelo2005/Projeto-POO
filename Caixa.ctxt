@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Caixa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Caixa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player\ controlo\ nomeImagem
+comment1.target=Caixa(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Fun\u00E7\u00E3o\ que\ coloca\ as\ imagens\ das\ teclas\ no\ World\ Instru\u00E7\u00F5es\r\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Nivel3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=scoretotal
+comment1.target=Nivel3(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel3.\r\n\ \r\n
+comment2.params=vidaJogador1\ vidaJogador2
+comment2.target=void\ gameOver(int,\ int)
+comment2.text=\r\n\ M\u00E9todo\ que\ d\u00E1\ a\ tela\ de\ gameover\ quando\ um\ dos\ players\ morre\r\n
+comment3.params=
+comment3.target=void\ resetGame()
+comment3.text=\r\n\ M\u00E9todo\ que\ d\u00E1\ reset\ no\ numero\ de\ vidas\ de\ cada\ personagem\r\n
+comment4.params=
+comment4.target=void\ bossMorreu()
+comment4.text=\r\n\ M\u00E9todo\ que\ verifica\ que\ o\ boss\ morreu\ e\ chama\ o\ helicoptero\r\n
+comment5.params=
+comment5.target=Score\ getScore()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

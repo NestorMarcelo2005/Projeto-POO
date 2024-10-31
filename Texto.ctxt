@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Texto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Texto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=text\ size\ corTexto\ corFundo
+comment1.target=Texto(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment2.params=text\ size
+comment2.target=void\ atualizarImagem(java.lang.String,\ int)
+comment2.text=\r\n\ O\ m\u00E9todo\ serve\ para\ atualizar\ a\ imagem\ exibida\ pelo\ objeto\r\n
+numComments=3

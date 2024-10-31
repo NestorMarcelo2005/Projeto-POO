@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Nemesis
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nemesis\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Nemesis()
+comment2.params=
+comment2.target=void\ carregarImagens()
+comment2.text=\r\n\ Fun\u00E7\u00E3o\ que\ carrega\ as\ Imagens\ do\ Nemesis\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\r\n\ Fun\u00E7\u00E3o\ que\ move\ o\ Nemesis\r\n
+comment5.params=
+comment5.target=void\ animar()
+comment5.text=\r\n\ Fun\u00E7\u00E3o\ que\ percorre\ o\ array\ e\ anima\ o\ Nemesis\r\n
+comment6.params=
+comment6.target=void\ mostrarTelaDeFim()
+comment6.text=\r\n\ Fun\u00E7\u00E3o\ que\ mostra\ o\ ecr\u00E3\ final\r\n
+numComments=7

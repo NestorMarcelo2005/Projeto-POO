@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Disparo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ municao\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ municao\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ atirar()
+comment2.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ com\ que\ a\ bala\ se\ mova\r\n
+comment3.params=
+comment3.target=boolean\ atingiuBoss()
+comment3.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ com\ que\ o\ disparo\ d\u00EA\ dano\ ao\ Boss\r\n
+comment4.params=
+comment4.target=boolean\ atingiuzombie1()
+comment4.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ com\ que\ o\ disparo\ d\u00EA\ dano\ ao\ Zombie1\r\n
+comment5.params=
+comment5.target=boolean\ atingiuzombie2()
+comment5.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ com\ que\ o\ disparo\ d\u00EA\ dano\ ao\ Zombie2\r\n
+comment6.params=
+comment6.target=boolean\ atingiulenhador()
+comment6.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ com\ que\ o\ disparo\ d\u00EA\ dano\ ao\ Lenhador\r\n
+numComments=7

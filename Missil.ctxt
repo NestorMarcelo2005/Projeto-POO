@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Missil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Missil\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Missil()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animarExplosao()
+comment3.text=\r\n\ Fun\u00E7\u00E3o\ que\ anima\ a\ explos\u00E3o\ do\ missil\r\n
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\r\n\ Fun\u00E7\u00E3o\ que\ faz\ o\ missil\ mover-se\ e\ quando\ tocar\ no\ helic\u00F3ptero\ fazer\ a\ anima\u00E7\u00E3o\ e\ som\ de\ explos\u00E3o\r\n
+comment5.params=
+comment5.target=void\ adicionarNemesis()
+comment5.text=\r\n\ Fun\u00E7\u00E3o\ que\ spawna\ o\ Nemesis\r\n
+numComments=6

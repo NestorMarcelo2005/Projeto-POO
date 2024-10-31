@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Instrucoes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Instru\u00E7\u00F5es\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Instrucoes()
+comment2.params=
+comment2.target=void\ ColocaInstru\u00E7\u00F5es()
+comment2.text=\r\n\ Fun\u00E7\u00E3o\ que\ coloca\ as\ instru\u00E7\u00F5es,\ teclas\ e\ indica\u00E7\u00F5es\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
